@@ -1,0 +1,6 @@
+{{#user}}
+Name: Jeevan Poojary
+Skills: AWS,devops,linux
+Email: jeevanpoojary267@gmail.com
+{{/user}}
+
